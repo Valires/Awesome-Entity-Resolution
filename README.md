@@ -43,7 +43,7 @@
 - [Comparator](https://github.com/ngmarchant/comparator) (R, C++) - Efficient string comparison functions in R.
 
 
-### Embeddings (focused pairwise comparison)
+### Embeddings (for pairwise comparison)
 
 - [Entity Embed](https://github.com/vintasoftware/entity-embed) (Python, PyTorch) - Pytorch text embedding model for blocking.
 - FaceNet-PyTorch (Python, PyTorch) - Embeddings for facial identity resolution.
