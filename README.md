@@ -50,9 +50,11 @@
 
 ### Data Cleaning and Parsing
 
+- [cleanco](https://github.com/psolin/cleanco) (Python) - Company name cleaning.
 - [libpostal](https://github.com/openvenues/libpostal) (C, and bindings for Python, Java, Go, Ruby, PHP, and NodeJS) - Multinational address parsing.
 - [Ftfy](https://github.com/rspeer/python-ftfy) (Python) - Fixes text (unicode artifacts) for you.
-- [PyJanitor](https://pyjanitor-devs.github.io/pyjanitor/) (Python) - Clean code for clean data
+- [PyJanitor](https://pyjanitor-devs.github.io/pyjanitor/) (Python) - Clean code for clean data.
+- [ProbablePeople](https://github.com/datamade/probablepeople) - Western name parser.
 - [python-nameparser](https://github.com/derek73/python-nameparser) (Python) - Separate names into individual components.
 - [Nominally](https://github.com/vaneseltine/nominally) - Name parser for record linkage.
 
