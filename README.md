@@ -10,6 +10,7 @@
     - [Blocking, Candidate Selection, and Search](#blocking-candidate-selection-and-search)
 - [Commercial Solutions](#commercial-solutions)
 - [Books](#books)
+- [Contributors](#contributors)
 
 ---
 
@@ -46,7 +47,7 @@
 ### Embeddings (for pairwise comparison)
 
 - [Entity Embed](https://github.com/vintasoftware/entity-embed) (Python, PyTorch) - Pytorch text embedding model for blocking.
-- FaceNet-PyTorch (Python, PyTorch) - Embeddings for facial identity resolution.
+- [FaceNet-PyTorch](https://github.com/timesler/facenet-pytorch) (Python, PyTorch) - Embeddings for facial identity resolution.
 
 ### Data Cleaning and Parsing
 
@@ -71,14 +72,17 @@
 
 ## Commercial Solutions
 
-- AWS Entity Resolution - 
-- Google Cloud Entity Reconciliation
-- Senzing - 
-- Amplify
-- Quantexa
-- Semandex
-- Dataladders Data Match
-- WinPure Clean and Match
+- [Tilores](https://tilores.io/) - Flexible entity resolution platform.
+- [Senzing](https://senzing.com/) - Pre-configured entity resolution and entity management for people and organizations.
+- [Reltio](https://www.reltio.com/) - Cloud master data management with ER functionality. 
+- [Quantexa](https://www.quantexa.com/) - Entity resolution and graph analytics.
+- [Dataladders Data Match](https://dataladder.com/products/datamatch-enterprise/)
+- [WinPure Clean and Match](https://winpure.com/products/clean-match/)
+- [AWS Entity Resolution](https://aws.amazon.com/entity-resolution/) - Rule-based entity resolution
+- [Google Cloud Entity Reconciliation](https://cloud.google.com/enterprise-knowledge-graph) - Part of Enterprise Knowledge Graph.
+- [Syntini Data Matching](https://www.syniti.com/solutions/data-matching/)
+- [Amperity](https://amperity.com/)
+
 
 ## Books
 
@@ -86,3 +90,9 @@
 - [Linking Sensitive Data](https://link.springer.com/book/10.1007/978-3-030-59706-1) - Introduction to privacy-preserving record linkage.
 - [The Four Generations of Entity Resolution](https://link.springer.com/book/10.1007/978-3-031-01878-7) - Review of academic research in the field.
 - [Data Matching: Concepts and Techniques for Record Linkage, Entity Resolution, and Duplicate Detection ](https://link.springer.com/book/10.1007/978-3-642-31164-2)
+
+## Contributors
+
+- [Olivier Binette](https://github.com/OlivierBinette)
+- [Nishamathi Kumaraswamy](https://github.com/nishamathi)
+
