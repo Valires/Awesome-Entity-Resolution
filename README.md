@@ -73,8 +73,10 @@
 
 ## Commercial Solutions
 
+- [Automated Data Inc](https://www.automated-data.io/) - AI driven, low-code.
 - [Tilores](https://tilores.io/) - Flexible entity resolution platform.
 - [Senzing](https://senzing.com/) - Pre-configured entity resolution and entity management for people and organizations.
+- [Match Data Pro](https://matchdatapro.com/) - Batch entity resolution in the browser. Integrates with Senzing.
 - [Reltio](https://www.reltio.com/) - Cloud master data management with ER functionality. 
 - [Quantexa](https://www.quantexa.com/) - Entity resolution and graph analytics.
 - [Dataladders Data Match](https://dataladder.com/products/datamatch-enterprise/)
